@@ -1,7 +1,7 @@
 # qa_guru_xctest_a5
 Небольшое iOS приложение с автотестами
 
-- Install fastlane: brew fastlane  
+- Install fastlane: brew install fastlane  
 - Start fastlane into project dir: fastlane 
 - Edit fastlane/Fastfile
 
